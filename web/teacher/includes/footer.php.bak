@@ -1,0 +1,16 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+            <!-- Copyright info -->
+			
+			
+			
+			
+			 <img src="../img/main.png"  class="img-fluid" width="300">
+			 
+            <p class="copy">Copyright &copy; <?php echo date("Y"); ?> | <a target="_blank" href="https://oef.om">oef.om</a> </p>
+      </div>
+    </div>
+  </div>
+</footer> 
